@@ -1,3 +1,8 @@
+`How to Use`
+1) Download the Excel file from this repository.
+2) Navigate through sheets using the predefined buttons (A2:A15).
+3) Analyze tracking trends for insights into performance improvements.
+
 *************Day Track Percentage*************
 1) Shows tracking percentage from April 2023 to March 2024.
 2) Contains a "Day Track Status Percentage" chart.
